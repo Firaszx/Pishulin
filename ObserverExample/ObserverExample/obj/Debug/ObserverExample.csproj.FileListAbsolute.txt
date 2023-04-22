@@ -1,0 +1,8 @@
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe.config
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\bin\Debug\ObserverExample.pdb
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csproj.AssemblyReference.cache
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.exe
+C:\Users\qqqqq\source\repos\ObserverExample\ObserverExample\obj\Debug\ObserverExample.pdb
