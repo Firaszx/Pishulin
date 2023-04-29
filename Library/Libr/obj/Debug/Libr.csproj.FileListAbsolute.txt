@@ -1,0 +1,6 @@
+C:\Users\qqqqq\source\repos\Library\Libr\bin\Debug\Libr.dll
+C:\Users\qqqqq\source\repos\Library\Libr\bin\Debug\Libr.pdb
+C:\Users\qqqqq\source\repos\Library\Libr\obj\Debug\Libr.csproj.AssemblyReference.cache
+C:\Users\qqqqq\source\repos\Library\Libr\obj\Debug\Libr.csproj.CoreCompileInputs.cache
+C:\Users\qqqqq\source\repos\Library\Libr\obj\Debug\Libr.dll
+C:\Users\qqqqq\source\repos\Library\Libr\obj\Debug\Libr.pdb
