@@ -1,0 +1,11 @@
+C:\Users\qqqqq\source\repos\Library\Writer\bin\Debug\Writer.exe.config
+C:\Users\qqqqq\source\repos\Library\Writer\bin\Debug\Writer.exe
+C:\Users\qqqqq\source\repos\Library\Writer\bin\Debug\Writer.pdb
+C:\Users\qqqqq\source\repos\Library\Writer\bin\Debug\Libr.dll
+C:\Users\qqqqq\source\repos\Library\Writer\bin\Debug\Libr.pdb
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.csproj.AssemblyReference.cache
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.csproj.CopyComplete
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.exe
+C:\Users\qqqqq\source\repos\Library\Writer\obj\Debug\Writer.pdb

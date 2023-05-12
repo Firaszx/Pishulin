@@ -1,5 +1,6 @@
 sleep 10000
-Loop {
+Loop
+{
   Send ^v
   Send {ENTER}
   Sleep 6
