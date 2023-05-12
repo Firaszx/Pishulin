@@ -1,0 +1,11 @@
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\bin\Debug\DocumentXML.exe.config
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\bin\Debug\DocumentXML.exe
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\bin\Debug\DocumentXML.pdb
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.csproj.AssemblyReference.cache
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.csproj.CoreCompileInputs.cache
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.csproj.CopyComplete
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.exe
+C:\Users\qqqqq\source\repos\DocumentXML\DocumentXML\obj\Debug\DocumentXML.pdb
