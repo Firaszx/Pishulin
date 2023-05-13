@@ -1,5 +1,4 @@
-﻿
-using OpenXML;
+﻿using XMLExample;
 namespace DocumentXML
 {
     internal partial class Program
@@ -9,7 +8,7 @@ namespace DocumentXML
             Person person1 = new Person();
             person1.name = "nigger";
             person1.age = 15;
-            Par.Check("D:\\C# tests\\test1.docx",person1);
+            DocumentChange.Check("D:\\C# tests\\test1.docx",person1);
         }
     }
 }

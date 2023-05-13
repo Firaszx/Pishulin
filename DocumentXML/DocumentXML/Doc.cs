@@ -7,9 +7,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-namespace OpenXML
+namespace XMLExample
 {
-    public class Par
+    public class DocumentChange
     {
         public static void Check<T>(string PathTo,T Temp)
         {
@@ -26,7 +26,7 @@ namespace OpenXML
                             //Console.WriteLine(property.Name); 
                             foreach (var paragraph in NewDoc.MainDocumentPart.Document.Descendants<Paragraph>())
                             {
-                                if (paragraph != null)
+                                if (paragraph != null)//?
                                 {
                                     foreach (var run in paragraph.Descendants<Run>())
                                     {
