@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApExample.props" />
+</Project>
